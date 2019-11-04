@@ -1,0 +1,84 @@
+﻿@inject VNNSIS.Repositories.MenuMasterRepository menus
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/menu/css/menu.css" />
+<style>
+    hr.style7 { 
+border: 0; 
+height: 1px; 
+background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+</style>
+<div class="container">
+    <div class="wrap">
+        @{
+            var seq = 1;
+        }
+        @foreach (var menuNames in menus.GetMenuMaster().Where(n => n.ParentMenuID == "*"))
+        {            
+                <!-- <a class=@menuNames.MenuClass  asp-area="" asp-controller=@menuNames.MenuURL asp-action=@menuNames.MenuFileName>             -->
+                <a class=@menuNames.MenuClass  asp-area="" onclick="GetTitle('@menuNames.MenuName','@menuNames.UserRole','@menuNames.MenuURL','@menuNames.MenuFileName')" data-toggle="modal" data-target="#LoginMenu">                
+                        <h1>@menuNames.MenuName</h1>
+                        <div class="poster p10">
+                            <h4>@seq</h4>
+                        </div>
+                </a>           
+            seq = seq + 1;            
+        }
+    </div>
+</div> 
+
+
+
+<div class="modal fade" id="LoginMenu">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <!-- <div class="modal-header">
+                <h4 class="modal-title">Đăng Nhập</h4>				
+                <button class="close" data-dismiss="modal">&times;</button>
+            </div> -->
+            <!-- Modal body -->    
+                
+            <fieldset class="form-group position-relative has-icon-left">
+                
+                    <div class="card-title text-center">
+                        <div style="padding-top: 15px;"><img src="~/images/logo_nok.png" alt="Icon User" height="40px"></div>
+                        <hr class="style7">
+                        <h2 style="padding: 0.5em;"><b>Đăng Nhập</b></h2>
+                        <h5 id="title"></h5>
+                    </div>
+                    <hr class="style7">
+                <table style="width: 100%">
+                    <tr>
+                        <td style="width: 15%" align="center" > <img src="~/images/icon.png" alt="Icon User" width="30" height="30"></td>
+                    <td style="width: 80%"><input class="form-control modal-m" id="user-id" required="" type="text" placeholder="Nhập mã số nhân viên" onkeypress="return runButton(event)" autofocus >  </td>
+                        <td style="width: 5%"> </td>
+                    </tr>
+                </table>   
+            </fieldset>
+    
+            <!-- Modal footer -->           
+            <div class="modal-footer">
+                <button class="btn btn-outline-primary btn-block" type="submit" id="btnCloseModal" onclick="LogIn();" data-dismiss="modal"><i class="fas fa-unlock-alt"></i> Login</button>				
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOLLOW -->
+<!-- <a class="Follow" href="https://codepen.io/ZaynAlaoudi/" target="blank_"></a> -->
+
+<script src="~/js/Login/login.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#LoginMenu").on('shown.bs.modal', function(){
+        $(this).find('#user-id').focus();
+    });
+});
+</script>

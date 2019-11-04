@@ -1,0 +1,159 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/css/InputDefect.css" />
+
+<style>
+    hr.style7 { 
+height: 5px;
+border: 1;
+box-shadow: inset 0 9px 9px -3px rgba(11, 99, 184, 0.8);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+-ms-border-radius: 5px;
+-o-border-radius: 5px;
+border-radius: 5px;
+}
+</style>
+<div>
+    <div id="fade"></div>
+    <div id="model" style="display:none;">
+        <img style="width: 50%; height: 50%; margin: 25%;" src="~/images/InputDefect/35.gif" /> 
+    </div>
+    <div class="div-title">CHƯƠNG TRÌNH NHẬP DỮ LIỆU</div>
+    <hr class="style7">
+    <form>
+        <fieldset class="box-shadow">
+            <legend style="color:tomato"><h5><i class="fas fa-info" style="margin-right:5px;"></i>Thông tin dữ liệu <input type="hidden" id="txtUserId" value="@ViewBag.UserID"></h5></legend>
+            <div class="fieldset-main">
+                <div class="div-group-1">
+                        <label class="label-group">Barcode</label>
+                        <input class="input-width" id="txtBarcode" type="text" placeholder="Quét mã vạch" style="text-transform: uppercase;"  autofocus>
+                </div>
+
+                <div class="div-group-1">
+                    <label class="label-group">Job No</label>
+                    <input class="input-width" id="txtJobOrderNo" name="input-disable"  readonly="readonly" type="text"  disabled>
+                </div>
+
+                 <div class="div-group-1">
+                    <label class="label-group">Lot No</label>
+                    <input class="input-width" id="txtLot" name="input-disable" readonly="readonly" type="text"  disabled>
+                </div>
+
+                <div class="div-group-1">
+                    <label class="label-group">Item</label>
+                    <input class="input-width" id="txtItem" name="input-disable" readonly="readonly" type="text"  disabled>
+                </div>
+
+               
+                 <div class="div-group-2">
+                        <label class="label-group">Ngày sản xuất</label>
+                        <input id="txtStartDate"  class="input-width" name="input-disable" readonly="readonly" type="date" style= "border: 0.5px solid;" disabled>
+                    </div>
+
+                    <div class="div-group-2">
+                        <label class="label-group">Ngày kết thúc</label>
+                        <input id="txtEndDate" class="input-width" name="input-disable" readonly="readonly" type="date" style= "border: 0.5px solid;" disabled>
+                    </div>
+                     <div class="div-group-2">
+                        <label class="label-group">Mã số thiết bị/bàn</label>
+                        <input class="input-width" id="txtMachineNo" name="input-disable" readonly="readonly" type="text"  disabled>
+                </div> 
+            </div>
+        </fieldset>
+    </form>
+    <form>
+        <fieldset  class="box-shadow">
+            <legend style="color:tomato"><h5><i class="fas fa-database" style="margin-right:5px;"></i>Thông tin nhập liệu</h5></legend>
+                <div  class="fieldset-main">
+                    <div class="div-group-1">
+                    <label class="label-group">Công đoạn</label>
+
+                    <select class="input-width" id="ddlProcess">
+                        <option value="0">Chọn công đoạn</option>
+                        <!-- implement here -->
+                    </select>
+                </div>
+                    <div class="div-group-2">
+                        <label class="label-group">Số lượng thao tác</label>
+                        <input class="input-width" id="txtQuantity" type="text" placeholder="Nhập số lượng" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                    </div>
+                    
+                </div>
+                
+                <form>
+                    <fieldset style="text-align: center;">
+                        <legend style="font-size: 25px; color:tomato">Danh mục lỗi</legend>
+                        <div id="error-data" style="display: flex; flex-wrap: wrap">
+                            <!-- implement here -->
+                        </div>
+                    </fieldset>
+                </form>
+                <span style="font-weight:bold; padding-left:10px"><i class="fas fa-edit"></i>Ghi chú nội dung lỗi khác</span>
+                <div style="padding-left:10px">   
+                    <textarea id="txtNotes" placeholder="Nhập thông tin ghi chú"  spellcheck="false" style="width:99%" rows="2"></textarea>
+                </div>
+        </fieldset>
+    </form>
+
+    <form>
+        <fieldset  class="box-shadow">
+            <!-- <legend></legend> -->
+            <div style="display: flex">
+                <!-- <div id="operation-number" style="text-align: center; width: 20%; font-size: 18px; margin: 5px;"></div> -->
+                <input type="hidden" id="operation-number">
+                <div id="div-notfi" style="text-align: center; width: 80%; font-size: 18px; margin: 5px;"></div>
+                <div style="width: 20%; text-align: center;">
+                    <button id="btnSubmit" type="button" class="btn btn-outline-primary btn-block" style="width: 100%;"><i class="fas fa-save" style="margin-right: 5px;"></i>LƯU DỮ LIỆU</button>
+                </div>
+            </div>
+            
+        </fieldset>
+    </form>
+</div>
+
+<!-- Stackable -->
+<!-- Modal 1-->
+<div class="modal fade" id="confirmModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-focus-on="button:first">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">CHÚ Ý</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <span style="color:red">BẠN CÓ CHẮC ĐÃ NHẬP ĐÚNG DỮ LIỆU?</span>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-secondary" data-dismiss="modal" data-tabindex="2">NO</button>
+        <button type="button" class="btn btn-outline-primary" id="btnSave" data-tabindex="1">YES</button>
+        <!-- <button class="btn btn-outline-primary" data-toggle="modal" href="#confirmModal2">YES</button> -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal 2-->
+<div class="modal fade" id="continueModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-focus-on="button:first">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">CHÚ Ý</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <span>BẠN CÓ MUỐN TIẾP TỤC KHÔNG?</span>  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-secondary" id="btnNoContinue" data-tabindex="2">NO</button>
+        <button type="button" class="btn btn-outline-primary" id="btnContinue" data-tabindex="1">YES</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="~/js/InputDefect/InputDefect.js" asp-append-version="true"></script>

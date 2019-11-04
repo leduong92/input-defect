@@ -1,0 +1,269 @@
+F:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+f:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+F:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+f:\ASP.NET\SmartInformationSystem\VNNSIS - 11092019 - Doing\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.dll
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.dll
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+C:\Users\11810677\Desktop\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+C:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+c:\Users\11810677\Desktop\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+>>>>>>> b83631d3e8c7018e7bda348a990a510eb58363c3
+c:\Users\11609170\Desktop\test\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+C:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+C:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+C:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+c:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.dll
+c:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+C:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+c:\Users\11810678\Desktop\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.dll
+c:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+C:\Users\11810678\Desktop\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.dll
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+F:\03-ASP.NET\47-VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.dll
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\47-VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+F:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\47-VNNSIS-Production -(OFF)\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.deps.json
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.json
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.runtimeconfig.dev.json
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\bin\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csprojAssemblyReference.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CoreCompileInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfoInputs.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.AssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.input.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.TagHelpers.output.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorCoreGenerate.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index1.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\ADMINC\Index2.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\InputDefect\Index.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cache
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.RazorTargetAssemblyInfo.cs
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.Views.pdb
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.dll
+f:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.pdb
+F:\03-ASP.NET\SmartInformationSystem\VNNSIS-Production\obj\Debug\netcoreapp2.2\VNNSIS.csproj.CopyComplete
